@@ -1,4 +1,5 @@
 brocode.html is first 
 2. hyperlinks lesson --> page2.html is a part of this 
 3. images
-4. audio - using youtube audio
+4. audio - using youtube audio - skipping video as it is the same but using video instead of audio.
+5. 

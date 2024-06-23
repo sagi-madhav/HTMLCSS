@@ -1,2 +1,4 @@
 brocode.html is first 
-2. hyperlinks lesson
+2. hyperlinks lesson --> page2.html is a part of this 
+3. images
+4. audio - using youtube audio
